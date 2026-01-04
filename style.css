@@ -25,6 +25,9 @@
     background-color:#FFFADA;
     color: #A0583C;
 }
+#darkBtn{
+    margin-right: 10px;
+}
 #darkBtn:hover{
   cursor: pointer;
 }
